@@ -1,0 +1,23 @@
+[
+    {
+        "createdAt": "Fri Dec 19 13:23:50 2025\n",
+        "description": "task1",
+        "id": 2,
+        "status": "todo",
+        "updatedAt": "Fri Dec 19 13:23:50 2025\n"
+    },
+    {
+        "createdAt": "Fri Dec 19 13:23:53 2025\n",
+        "description": "task 2",
+        "id": 3,
+        "status": "in-progress",
+        "updatedAt": "Fri Dec 19 13:26:00 2025\n"
+    },
+    {
+        "createdAt": "Fri Dec 19 13:23:56 2025\n",
+        "description": "task 3",
+        "id": 4,
+        "status": "todo",
+        "updatedAt": "Fri Dec 19 13:23:56 2025\n"
+    }
+]
